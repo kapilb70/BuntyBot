@@ -1,0 +1,19 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore environment files
+.env
+venv/
+.env/
+
+# Ignore audio files (if large)
+*.wav
+*.mp3
+
+# Ignore OS-specific files
+.DS_Store
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
